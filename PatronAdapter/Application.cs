@@ -15,7 +15,7 @@
 
         public void Process()
         {
-            _logger.Log("********* Proceso ejecutado *********");
+            _logger.Log("********* Proceso ejecutado en aplicación *********");
         }
     }
 }
